@@ -1,0 +1,2 @@
+# Namskeid
+Tilraunmappa fyrir námskeið
